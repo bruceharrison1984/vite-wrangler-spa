@@ -1,6 +1,8 @@
 # @torchauth/vite-plugin-wrangler-spa
 
-[This repo has been moved to TorchAuth](https://github.com/TorchAuth/vite-plugin-wrangler-spa)
+# [This repo has been moved to TorchAuth](https://github.com/TorchAuth/vite-plugin-wrangler-spa)
+
+---
 
 [![NPM Version](https://img.shields.io/npm/v/vite-wrangler-spa)](https://www.npmjs.com/package/vite-wrangler-spa)
 
