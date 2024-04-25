@@ -1,6 +1,6 @@
-# @torchauth/vite-plugin-wrangler-spa
-
 # [This repo has been moved to TorchAuth](https://github.com/TorchAuth/vite-plugin-wrangler-spa)
+
+# @torchauth/vite-plugin-wrangler-spa
 
 ---
 
